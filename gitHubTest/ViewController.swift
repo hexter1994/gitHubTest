@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("Hello, World")
         
         print("branch1 is created")
+        
+        print("Xcode branch1 -> Github branch2")
     }
 
 
