@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         print("branch1 is created")
         
         print("Xcode branch1 -> Github branch2")
+        
+        print("test github commit")
     }
 
 
